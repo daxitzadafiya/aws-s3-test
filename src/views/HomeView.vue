@@ -4,6 +4,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
   <main>
+    <p>This is testing of auto-update in s3 bucket.</p>
     <TheWelcome />
   </main>
 </template>
