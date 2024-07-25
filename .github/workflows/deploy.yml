@@ -1,4 +1,4 @@
-name: Upload website aws s3 test
+name: aws s3 test
 
 on:
   push:
