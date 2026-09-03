@@ -33,3 +33,6 @@ npm run build
 ```sh
 npm run lint
 ```
+
+
+<!-- Security scan triggered at 2026-09-03 21:51:24 -->
